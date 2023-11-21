@@ -1,0 +1,36 @@
+{
+    "site": {
+        "title": "Blazed Cloud",
+        "base_url": "https://blazedcloud.com",
+        "base_path": "/",
+        "trailing_slash": false,
+        "favicon": "/images/favicon.ico",
+        "logo": "/images/logo-darkmode.webp",
+        "logo_width": "150",
+        "logo_height": "30",
+        "logo_text": "Blazed Cloud"
+    },
+    "settings": {
+        "search": false,
+        "sticky_header": true,
+        "theme_switcher": false,
+        "default_theme": "dark",
+        "pagination": 2,
+        "summary_length": 200,
+        "blog_folder": "posts"
+    },
+    "params": {
+        "contact_form_action": "#",
+        "copyright": "Designed And Developed by [Chance Software LLC](https://chancesoftwarellc.com)"
+    },
+    "navigation_button": {
+        "enable": true,
+        "label": "Get Blazed",
+        "link": "/start"
+    },
+    "metadata": {
+        "meta_author": "chancesoftware",
+        "meta_image": "/images/logo-chance.webp",
+        "meta_description": "Fireproof Cloud Storage"
+    }
+}

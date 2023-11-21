@@ -1,0 +1,26 @@
+{
+    "main": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "Contact Us",
+            "url": "/support"
+        }
+    ],
+    "footer": [
+        {
+            "name": "Chance Software LLC",
+            "url": "https://chancesoftwarellc.com"
+        },
+        {
+            "name": "Terms of Use",
+            "url": "/terms-of-service"
+        },
+        {
+            "name": "Privacy Policy",
+            "url": "/privacy-policy"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Blazed Cloud"
-  content: "Simple and minimal Cloud Storage"
+  title: "Blazed Cloud: Your Simple and Minimal Cloud Storage Solution"
+  content: "Welcome to Blazed Cloud, where simplicity meets robust functionality. Our mission is to provide you with hassle-free file backup, storage, and sharing."
   image: "/images/logo.webp"
   button:
     enable: true
@@ -13,16 +13,15 @@ banner:
 features:
   - title: "What is a Blazed Cloud?"
     lottie: "/lottie/fire.json"
-    content: "Blazed Cloud is like any other cloud you always hear about with a focus on storing any file type, not just photos. What makes it BLAZED you might ask?"
+    content: "Blazed Cloud is not just another cloud storage provider; it's a blazing experience for all your file storage needs. What sets us apart?"
     bulletpoints:
-    - "Simple and clean interface"
-    - "Top tier infastructure"
-    - "100% Open sourced code"
-    - "Secure file sharing"
-    - "Zero knowledge encryption"
-    - "Generous free tier"
-    - "Biometric app locking"
-    - "And a whole lot more"
+    - "**Simple and Clean Interface:** Navigate effortlessly with our user-friendly design."
+    - "**Top-Tier Infrastructure:** Enjoy the reliability of cutting-edge technology."
+    - "**Open Source:** Transparency and community-driven development."
+    - "**Secure File Sharing:** Share with confidence, knowing your files are protected."
+    - "**Zero Knowledge Encryption:** Your privacy is our priority."
+    - "**Generous Free Tier:** Start for free and upgrade as needed."
+    - "**Biometric App Locking:** Extra security for your peace of mind."
     button:
       enable: false
       label: "Start Tracking"
@@ -34,12 +33,12 @@ features:
 
   - title: "\"But I already use [X], how is this better?\""
     lottie: "/lottie/cloud-computer.json"
-    content: "We don't claim to be better. But we do pride ourselves in offering the user the choice between services. No one service should have everyone's data. Especially big tech"
+    content: "We don't claim to be better; we offer a choice. Your data should be in your hands, not controlled by one giant. Here's why Blazed Cloud stands out:"
     bulletpoints:
-    - "5 GB free tier"
-    - "Publicly viewable code"
-    - "Lightweight app that doesn't consume space"
-    - "Competitive $10 monthly per terabyte"
+    - "**5 GB Free Tier:** Begin your Blazed journey without breaking the bank."
+    - "**Publicly Viewable Code:** See the transparency in our development."
+    - "**Lightweight App:** No space hogging, just the essentials."
+    - "**Competitive Pricing:** $10 monthly per terabyte – because quality doesn't have to be expensive."
     button:
       enable: false
       label: "Start Tracking"
@@ -51,11 +50,11 @@ features:
 
   - title: "Who are we?"
     lottie: "/lottie/coder.json"
-    content: "Based out of Virginia, Chance Software is born out of the idea software should be open & stupid simple"
+    content: "Based in Virginia, Chance Software is driven by the belief that software should be open and stupid simple. We are:"
     bulletpoints:
-    - "We are open source fanatics"
-    - "Privacy advocates"
-    - "Simply tech enthusiasts who love to code"
+    - "**Open Source Fanatics:** Embracing transparency in software development."
+    - "**Privacy Advocates:** Your data, your rules."
+    - "**Tech Enthusiasts:** Passionate coders making technology accessible."
     button:
       enable: false
       label: ""

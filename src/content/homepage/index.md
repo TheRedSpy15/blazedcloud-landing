@@ -8,6 +8,10 @@ banner:
     enable: true
     label: "Get Blazed 🔥"
     link: "/start"
+  buttonsecondary:
+    enable: false
+    label: "Start Tracking"
+    link: "/start"
 
 # Features
 features:
@@ -52,8 +56,8 @@ features:
     lottie: "/lottie/coder.json"
     content: "Based in Virginia, Chance Software is driven by the belief that software should be open and stupid simple. We are:"
     bulletpoints:
-    - "**Open Source Fanatics:** Embracing transparency in software development."
-    - "**Privacy Advocates:** Your data, your rules."
+    - "**Open Source Fanatics:** Embracing transparency in software development. With 7+ Years of experience coding for the OSS community"
+    - "**Privacy Advocates:** Your data, your rules. Don't like big brother? Neither do we."
     - "**Tech Enthusiasts:** Passionate coders making technology accessible."
     button:
       enable: false

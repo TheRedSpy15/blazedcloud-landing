@@ -9,6 +9,6 @@ button:
   link: "/start"
 buttonsecondary:
   enable: true
-  label: "Have Questions?"
-  link: "/support"
+  label: "Online Portal"
+  link: "https://portal.blazedcloud.com"
 ---

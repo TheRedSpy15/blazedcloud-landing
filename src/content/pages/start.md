@@ -12,7 +12,7 @@ There is more than one way for you to get your own Blazed Cloud. More methods wi
 You can join/login with:
 - [The Online Portal](https://portal.blazedcloud.com)
 - [Google Play](https://play.google.com/store/apps/details?id=com.chancesoftwarellc.blazedcloud)
-- *F-Droid (Coming soon)
+- [F-Droid](https://f-droid.org/packages/com.chancesoftwarellc.blazedcloud)
 - Amazon Appstore (Coming soon)
 - Apple Appstore (Coming soon)
 

@@ -7,7 +7,7 @@ draft: false
 
 # Blazed Cloud - Terms of Service
 
-*Last Updated: 10/23/2023*
+*Last Updated: 12/15/2023*
 
 Welcome to Blazed Cloud, a service provided by Chance Software LLC. These Terms of Service ("Terms") govern your use of Blazed Cloud's services, so please read them carefully.
 
@@ -17,7 +17,7 @@ By accessing or using Blazed Cloud, you agree to comply with and be bound by the
 
 ## 2. User Accounts:
 
-To use certain features of Blazed Cloud, you may be required to create a user account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+To use certain features of Blazed Cloud, you are be required to create a user account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
 
 ## 3. Privacy:
 
@@ -37,7 +37,7 @@ Blazed Cloud and its content are protected by intellectual property laws. You ma
 
 ## 7. Termination:
 
-We reserve the right to terminate or suspend your account at any time, with or without cause. You may terminate your account by discontinuing use of Blazed Cloud.
+We reserve the right to terminate or suspend your account at any time, with or without cause. You may terminate your account by requesting deletion through our applications, or emailing us directly with the email address assigned to your account.
 
 ## 8. Changes to Terms:
 

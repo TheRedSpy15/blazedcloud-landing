@@ -7,8 +7,4 @@ draft: false
 
 ## General
 ### support@blazedcloud.com
-You can reach us here for any questions, suggestions or issues you might have. We will make sure to responsed within 12 hours
-
-## Buisness
-### support@chancesoftwarellc.com
-If you would like to reach out to us for purposes not directly related to Blazed Cloud
+You can reach us here for any questions, suggestions or issues you might have. We will make sure to respond within a single business day

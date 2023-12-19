@@ -7,7 +7,7 @@ draft: false
 
 # Blazed Cloud Privacy Policy
 
-*Effective Date: 12/15/2023*
+*Effective Date: 12/19/2023*
 
 Welcome to Blazed Cloud, a service provided by Chance Software LLC. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information when you use our Blazed Cloud services.
 
@@ -16,8 +16,8 @@ Welcome to Blazed Cloud, a service provided by Chance Software LLC. Your privacy
 When you use Blazed Cloud, we may collect the following types of information:
 
 - **Account Information:** When you create an account, we collect your email and user ID for functionality.
-- **Uploaded Content (Optional):** Users can optionally upload files to Blazed Cloud. These files will be encrypted in transit and stored on an encrypted drive. The encryption/decryption key of which, is not known to Chance Software LLC
-- **IP Addresses:** Whenever you connect to our service, your public IP address is logged for security. These are stored indefinitely. 
+- **Uploaded Content (Optional):** Users can optionally upload files to Blazed Cloud. These files will be encrypted in transit and at rest. The encryption/decryption key of which, is not known to Chance Software LLC
+- **IP Addresses:** Whenever you connect to our service, your public IP address is logged for security. These are stored indefinitely, but usually up to 5 days. 
 
 ## How We Use Your Information
 

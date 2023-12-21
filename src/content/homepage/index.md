@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Blazed Cloud: Your Simple and Minimal Cloud Storage Solution"
-  content: "Welcome to Blazed Cloud, where simplicity meets robust functionality. Our mission is to provide you with hassle-free file backup, storage, and sharing."
+  title: "Blazed Cloud"
+  content: "Your Private, Simple, and Minimal Cloud Storage Solution"
   image: "/images/logo.webp"
   button:
     enable: true
@@ -17,7 +17,7 @@ banner:
 features:
   - title: "What is a Blazed Cloud?"
     lottie: "/lottie/fire.json"
-    content: "Blazed Cloud is not just another cloud storage provider; it's a blazing experience for all your file storage needs. What sets us apart?"
+    content: "Blazed Cloud is not just another cloud storage provider; it's a blazing experience for all your file storage needs"
     bulletpoints:
     - "**Simple and Clean Interface:** User friendly designs knowing not everyone is a tech wiz"
     - "**AAA Quality Infrastructure:** Built with many of the same tools used by FAANG."
@@ -26,6 +26,7 @@ features:
     - "**AES-256 Encryption:** Files are essentially stored in a cryptographic Fort Knox"
     - "**Generous Free Tier:** Start for free and upgrade as needed."
     - "**Biometric App Locking:** Extra protection for when someone might be snooping on your phone."
+    - "**OPTIONAL Inactivity Deletion**: Peace of mind if you stop using our service, your files won't just be sitting there"
     button:
       enable: false
       label: "Start Tracking"
@@ -37,12 +38,14 @@ features:
 
   - title: "\"But I already use [X], how is this better?\""
     lottie: "/lottie/cloud-computer.json"
-    content: "We don't claim to be better; we offer a choice. Your data should be in your hands, not controlled by one giant. Here's why Blazed Cloud stands out:"
+    content: "We don't claim to be better, but here's how Blazed Cloud stand out from the crowd:"
     bulletpoints:
-    - "**5 GB Free Tier:** Begin your Blazed journey without breaking the bank."
+    - "**5 GB Free Tier:** Blaze without breaking the bank."
     - "**Publicly Viewable Code:** See the transparency in our development."
     - "**Lightweight App:** No space hogging, just the essentials."
     - "**Competitive Pricing:** $10 monthly per terabyte – because quality doesn't have to be expensive."
+    - "**Anti Big Brother:** We're Software Engineers, not data analysts."
+    - "**Built and growing based on feedback:** Have a suggestion? we'd love to hear it through email or GitHub!"
     button:
       enable: false
       label: "Start Tracking"
@@ -54,10 +57,10 @@ features:
 
   - title: "Who are we?"
     lottie: "/lottie/coder.json"
-    content: "Based in Virginia, Chance Software is driven by the belief that software should be open and stupid simple. We are:"
+    content: "Based in Virginia, Chance Software LLC is driven by the belief that software should be open and stupid simple. We are:"
     bulletpoints:
     - "**Open Source Fanatics:** Embracing transparency in software development. With 7+ Years of experience coding for the OSS community"
-    - "**Privacy Advocates:** Your data, your rules. Don't like big brother? Neither do we."
+    - "**Privacy Advocates:** Your data is yours. Don't like big brother? Neither do we."
     - "**Tech Enthusiasts:** Passionate coders making technology accessible."
     button:
       enable: false

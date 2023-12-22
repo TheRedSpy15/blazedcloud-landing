@@ -24,7 +24,6 @@ features:
     - "**Open Source:** Transparent and community-driven development."
     - "**Secure File Sharing:** Share without over sharing."
     - "**AES-256 Encryption:** Files are essentially stored in a cryptographic Fort Knox"
-    - "**Generous Free Tier:** Start for free and upgrade as needed."
     - "**Biometric App Locking:** Extra protection for when someone might be snooping on your phone."
     - "**OPTIONAL Inactivity Deletion**: Peace of mind if you stop using our service, your files won't just be sitting there"
     button:
@@ -38,12 +37,11 @@ features:
 
   - title: "\"But I already use [X], how is this better?\""
     lottie: "/lottie/cloud-computer.json"
-    content: "We don't claim to be better, but here's how Blazed Cloud stand out from the crowd:"
+    content: "We don't claim to be better, but here's how Blazed Cloud stands out from the crowd:"
     bulletpoints:
-    - "**5 GB Free Tier:** Blaze without breaking the bank."
-    - "**Publicly Viewable Code:** See the transparency in our development."
-    - "**Lightweight App:** No space hogging, just the essentials."
-    - "**Competitive Pricing:** $10 monthly per terabyte – because quality doesn't have to be expensive."
+    - "**Generous Free Tier:** No credit card needed!"
+    - "**Publicly Viewable Code:** Know what code is running on your device."
+    - "**Lightweight App:** We want to provide storage, not consume it."
     - "**Anti Big Brother:** We're Software Engineers, not data analysts."
     - "**Built and growing based on feedback:** Have a suggestion? we'd love to hear it through email or GitHub!"
     button:

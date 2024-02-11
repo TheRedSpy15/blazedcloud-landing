@@ -7,3 +7,4 @@ Landing page for [Blazed Cloud](https://github.com/TheRedSpy15/blazedcloud) made
 ### Other Blazed Cloud Repos:
 - [Mobile](https://github.com/TheRedSpy15/blazedcloud)
 - [Web Portal](https://github.com/TheRedSpy15/blazedcloud-web)
+- [Desktop tool](https://github.com/TheRedSpy15/blazedcloud-sync)

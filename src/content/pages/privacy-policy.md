@@ -92,6 +92,8 @@ We engage the following third-party services or subprocessors in the processing 
 
 - **User File Storage with Backblaze:** Optional user files uploaded to Blazed Cloud are stored on Backblaze. While we do not directly process or access the content of these files, it's important to note that they are subject to Backblaze's privacy practices. Please refer to Backblaze's privacy policy for more information.
 
+- **(Playstore and Appstore downloads only) Device information:** We use Firebase Crashlytics when you download our app through either the Google Playstore, or Apple's Appstore. Data is stored for up to 90 days. Please refer to Firebase's privacy policy for more information. Users who download our app through Github or F-Droid, do not have crash logs collected using Firebase Crashlytics
+
 We take measures to ensure that our third-party partners adhere to data protection standards.
 
 For any inquiries regarding third-party processing or to request a copy of our DPAs, please contact our Data Protection Officer at [hunter@chancesoftwarellc.com](mailto:hunter@chancesoftwarellc.com).

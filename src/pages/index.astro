@@ -2,12 +2,11 @@
 import Base from "@/layouts/Base.astro";
 import { markdownify } from "@/lib/utils/textConverter";
 import CallToAction from "@/partials/CallToAction.astro";
-import { Image } from "@astrojs/image/components";
+import { Image } from "astro:assets";
 import { getEntryBySlug } from "astro:content";
-import { FaCheck } from "react-icons/fa/index.js";
+import { FaCheck } from "react-icons/fa";
 
 const homepage = await getEntryBySlug("homepage", "index");
-//const testimonial = await getEntryBySlug("sections", "testimonial");
 const call_to_action = await getEntryBySlug("sections", "call-to-action");
 const { banner, features } = homepage.data;
 ---
@@ -76,7 +75,6 @@ const { banner, features } = homepage.data;
                       height={480}
                       width={520}
                       class="rounded-xl object-contain"
-                      background="rgba(0,0,0,0)"
                       alt={feature.title}
                     />
                   )
@@ -119,6 +117,5 @@ const { banner, features } = homepage.data;
   }
   <!-- /Features -->
 
-  <!--<Testimonial testimonial={testimonial} />-->
   <CallToAction call_to_action={call_to_action} />
 </Base>

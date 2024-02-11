@@ -17,4 +17,6 @@ You can join/login with:
 
 ## Desktop Client
 
-Our desktop client is currently under development and will be available for Windows, Mac, and Linux. Current ETA is January 2024
+Please note: the desktop client is still under heavy development and will improve over time
+
+**Desktop tool Download:** https://github.com/TheRedSpy15/blazedcloud-sync

@@ -13,10 +13,7 @@ You can join/login with:
 - [The Online Portal](https://portal.blazedcloud.com)
 - [Google Play](https://play.google.com/store/apps/details?id=com.chancesoftwarellc.blazedcloud)
 - [F-Droid](https://f-droid.org/packages/com.chancesoftwarellc.blazedcloud)
-- Apple Appstore (Coming soon)
-
-## Desktop Client
-
-Please note: the desktop client is still under heavy development and will improve over time
-
-**Desktop tool Download:** https://github.com/TheRedSpy15/blazedcloud-sync
+- [Apple Appstore](https://apps.apple.com/us/app/blazed-cloud/id6478518052)
+- [Windows](https://github.com/TheRedSpy15/blazedcloud/blob/main/how-to-windows.md)
+- Linux coming soon!
+- Mac coming soon!

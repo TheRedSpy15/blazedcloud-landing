@@ -3,6 +3,7 @@ import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import AutoImport from "astro-auto-import";
+import purgecss from 'astro-purgecss';
 import { defineConfig, squooshImageService } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
@@ -36,6 +37,21 @@ export default defineConfig({
             ],
         }),
         mdx(),
+        purgecss({
+            fontFace: true,
+            keyframes: true,
+            variables: true,
+            content: [
+                process.cwd() + '/src/**/*.{astro,vue}' // Watching astro and vue sources (for SSR, read the note below)
+            ],
+            extractors: [
+                {
+                    extractor: (content) =>
+                        content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || [],
+                    extensions: ["astro", "html"],
+                },
+            ],
+        })
     ],
     markdown: {
         remarkPlugins: [

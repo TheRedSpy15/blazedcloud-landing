@@ -1,15 +1,17 @@
 ---
 const { source, className } = Astro.props;
 
-import { IoCall, IoGlobeOutline, IoLocation, IoLogoGithub, IoMail } from "react-icons/io5";
+import {
+  IoCall,
+  IoGlobeOutline,
+  IoLocation,
+  IoLogoGithub,
+  IoLogoMastodon,
+  IoLogoTwitter,
+  IoMail,
+} from "react-icons/io5";
 
-const {
-    github,
-    website,
-    email,
-    phone,
-    address,
-} = source;
+const { github, website, email, phone, address, twitter, mastodon } = source;
 ---
 
 <ul class={className}>
@@ -23,6 +25,34 @@ const {
           rel="noopener noreferrer nofollow"
         >
           <IoLogoGithub />
+        </a>
+      </li>
+    )
+  }
+  {
+    twitter && (
+      <li class="inline-block">
+        <a
+          aria-label="twitter"
+          href={twitter}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+        >
+          <IoLogoTwitter />
+        </a>
+      </li>
+    )
+  }
+  {
+    mastodon && (
+      <li class="inline-block">
+        <a
+          aria-label="mastodon"
+          href={mastodon}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+        >
+          <IoLogoMastodon />
         </a>
       </li>
     )

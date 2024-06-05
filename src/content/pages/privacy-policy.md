@@ -54,7 +54,7 @@ c. Disclosure in the event of merger or sale: We may disclose personal informati
 
 ## Territorial Restriction
 
-Our Services are available for use and download globally. If you are a resident of the United States ("US"), the laws of the State of Delaware, United States shall apply. If you are a resident of any other country, please ensure compliance with all local laws prior to using our Services.
+Our Services are available for use and download globally. If you are a resident of the United States ("US"), the laws of the Commonwealth of Virginia, United States shall apply. If you are a resident of any other country, please ensure compliance with all local laws prior to using our Services.
 
 ## Your Rights
 

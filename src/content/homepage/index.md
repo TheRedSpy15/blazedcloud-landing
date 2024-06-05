@@ -19,11 +19,12 @@ features:
     lottie: "/lottie/fire.json"
     content: "Blazed Cloud is not just another cloud storage provider; it's a blazing experience for all your file storage needs"
     bulletpoints:
+    - "**Multi-Platform Availability:** Download and use our app on nearly any device, or even use our web portal from anywhere!"
     - "**Simple and Clean Interface:** User friendly designs knowing not everyone is a tech wiz"
     - "**AAA Quality Infrastructure:** Built with many of the same tools used by FAANG."
     - "**Open Source:** Transparent and community-driven development."
     - "**Secure File Sharing:** Share without over sharing."
-    - "**AES-256 Encryption:** Files are essentially stored in a cryptographic Fort Knox"
+    - "**AES-256 Encryption:** Storing data in a cryptographic Fort Knox"
     - "**Biometric App Locking:** Extra protection for when someone might be snooping on your phone."
     - "**OPTIONAL Inactivity Deletion**: Peace of mind if you stop using our service, your files won't just be sitting there"
     button:

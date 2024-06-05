@@ -13,7 +13,6 @@
         "dev": "astro dev",
         "build": "astro build",
         "json": "node scripts/jsonGenerator.js",
-        "getStart": "node scripts/getStart.ts",
         "format": "prettier -w ."
     },
     "dependencies": {

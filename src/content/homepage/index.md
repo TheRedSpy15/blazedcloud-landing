@@ -45,6 +45,7 @@ features:
     - "**Lightweight App:** We want to provide storage, not consume it."
     - "**Anti Big Brother:** We're Software Engineers, not data analysts."
     - "**Built and growing based on feedback:** Have a suggestion? we'd love to hear it through email or GitHub!"
+    - "**Keep your data away from AI**: LLMs are cool and flashy, but we don't let it come anywhere near your data"
     button:
       enable: false
       label: "Start Tracking"
@@ -61,6 +62,7 @@ features:
     - "**Open Source Fanatics:** Embracing transparency in software development. With 7+ Years of experience coding for the OSS community"
     - "**Privacy Advocates:** Your data is yours. Don't like big brother? Neither do we."
     - "**Tech Enthusiasts:** Passionate coders making technology accessible."
+    - "**Zero Venture Captial BS: We make a product we believe in, not just another toy for investor nonsense.**"
     button:
       enable: false
       label: ""

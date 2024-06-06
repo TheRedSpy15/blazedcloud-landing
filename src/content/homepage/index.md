@@ -21,7 +21,6 @@ features:
     bulletpoints:
     - "**Multi-Platform Availability:** Download and use our app on nearly any device, or even use our web portal from anywhere!"
     - "**Simple and Clean Interface:** User friendly designs knowing not everyone is a tech wiz"
-    - "**AAA Quality Infrastructure:** Built with many of the same tools used by FAANG."
     - "**Open Source:** Transparent and community-driven development."
     - "**Secure File Sharing:** Share without over sharing."
     - "**AES-256 Encryption:** Storing data in a cryptographic Fort Knox"

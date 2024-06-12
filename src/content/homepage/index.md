@@ -45,6 +45,7 @@ features:
     - "**Anti Big Brother:** We're Software Engineers, not data analysts."
     - "**Built and growing based on feedback:** Have a suggestion? we'd love to hear it through email or GitHub!"
     - "**Keep your data away from AI**: LLMs are cool and flashy, but we don't let it come anywhere near your data"
+    - "**No Annual Plans**: We offer the lowest prices we can at all tiers, so don't need to pay for the whole year up front"
     button:
       enable: false
       label: "Start Tracking"

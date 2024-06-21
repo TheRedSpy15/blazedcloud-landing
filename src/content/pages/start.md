@@ -7,7 +7,7 @@ draft: false
 
 # Get Started
 
-There is more than one way for you to get your own Blazed Cloud. More methods will be added in the future as they are developed and ready for public usage
+There is more than one way for you to get your own Blazed Cloud
 
 You can join/login with:
 - [The Online Portal](https://portal.blazedcloud.com)

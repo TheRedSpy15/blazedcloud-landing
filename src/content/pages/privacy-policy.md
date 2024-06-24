@@ -146,6 +146,10 @@ Blazed Cloud uses the following third-party service providers for the provision 
     - Use-case: Payments
     - Privacy Policy: https://stripe.com/privacy
     - Contact: info@stripe.com
+- Glassfy
+    - Use-case: Payments
+    - Privacy Policy: https://glassfy.io/privacy_policy/
+    - Contact: privacy@glassy.io
 - Backblaze
     - Use-case: Storage
     - Privacy Policy: https://www.backblaze.com/company/privacy.html

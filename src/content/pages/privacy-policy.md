@@ -31,7 +31,6 @@ When you use Blazed Cloud, we may collect the following types of information:
 
 - **Account Information:** When you create an account, we collect your email and user ID for functionality.
 - **Uploaded Content (Optional):** Users can optionally upload files to Blazed Cloud. These files will be encrypted in transit and at rest. The rights to the uploaded content, will not belong to Chance Software LLC.
-- **IP Addresses:** Whenever you connect to our service, your public IP address is logged for security. These are stored indefinitely, but usually up to 7 days. 
 - **From Third-Parties:** We collect payment invoices provided to us by our third-party payment processors, which includes details of your Subscription Plan and any payments made by you in favor of Blazed Cloud in order to receive Services from us. We do not collect or store any credit cards or bank information.
 
 ## How We Use Your Information
@@ -97,8 +96,6 @@ We retain your personal data for the following periods:
 - **Account Information (Emails and User IDs):** We will retain this information until you decide to delete your account.
 
 - **Uploaded Content:** Users can optionally upload files to Blazed Cloud. These files will be retained until you decide to delete them.
-
-- **IP Addresses:** Whenever you connect to our service, your public IP address is logged for security purposes. These logs are stored for a period of up to 7 days.
 
 Please note that you have the control to delete your account, uploaded content, and associated data at any time.
 

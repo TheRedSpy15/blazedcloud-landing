@@ -6,9 +6,9 @@ description: "Blaze your cloud game today"
 button:
   enable: true
   label: "Start Blazing"
-  link: "/start"
+  link: "https://portal.blazedcloud.com"
 buttonsecondary:
   enable: true
-  label: "Online Portal"
-  link: "https://portal.blazedcloud.com"
+  label: "Client Downloads"
+  link: "/start"
 ---

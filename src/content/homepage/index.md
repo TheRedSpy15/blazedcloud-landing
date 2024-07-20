@@ -7,10 +7,10 @@ banner:
   button:
     enable: true
     label: "Get Blazed 🔥"
-    link: "/start"
+    link: "https://portal.blazedcloud.com"
   buttonsecondary:
-    enable: false
-    label: "Start Tracking"
+    enable: true
+    label: "Client Downloads"
     link: "/start"
 
 # Features

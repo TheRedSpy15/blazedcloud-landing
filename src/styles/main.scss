@@ -3,15 +3,23 @@
 @tailwind utilities;
 
 @layer base {
-  @import "base";
+    @import "base";
 }
 
 @layer components {
-  @import "components";
-  @import "navigation";
-  @import "buttons";
+    @import "components";
+    @import "navigation";
+    @import "buttons";
+
+    .font-primary {
+        font-family: 'Inter', sans-serif;
+    }
+
+    .font-secondary {
+        font-family: 'Inter', sans-serif;
+    }
 }
 
 @layer utilities {
-  @import "utilities";
+    @import "utilities";
 }

@@ -74,8 +74,8 @@ module.exports = {
                 h6: h6 + "rem",
             },
             fontFamily: {
-                primary: [fontPrimary, fontPrimaryType],
-                secondary: [fontSecondary, fontSecondaryType],
+                sans: ["Inter", "sans-serif"],
+                heading: ["Inter", "sans-serif"],
             },
         },
     },
